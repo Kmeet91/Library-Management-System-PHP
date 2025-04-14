@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/8ade4baa-99aa-449b-a321-202384d09aba)# Library Management System (PHP)
+# Library Management System (PHP)
 
 This project is a **Library Management System** built using PHP, HTML, CSS, and MySQL. It provides a platform for managing library operations such as searching for books, borrowing, returning, and providing feedback. The system is designed to be user-friendly and efficient for both library administrators and users.
 
